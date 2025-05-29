@@ -6,7 +6,6 @@ This is a simple IMDb Clone built using **React**, **Vite**, and **Tailwind CSS*
 
 👉 [View the App](https://imdb-clone-six-drab.vercel.app/)
 
-> Replace the above URL with your actual hosting link (e.g., from Vercel, Netlify, or GitHub Pages).
 
 ---
 
@@ -17,6 +16,3 @@ This is a simple IMDb Clone built using **React**, **Vite**, and **Tailwind CSS*
 - 🎨 Tailwind CSS
 
 ---
-
-## 📁 Folder Structure
-
